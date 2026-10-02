@@ -1,8 +1,0 @@
-.env
-.env.local
-/vendor/
-/tmp/
-.phpintel/
-.DS_Store
-error_log
-*.log
