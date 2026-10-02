@@ -1,7 +1,0 @@
-{
-    "require": {
-        "dompdf/dompdf": "^3.1",
-        "aws/aws-sdk-php": "2.8",
-        "jumbojett/openid-connect-php": "^1.0"
-    }
-}
